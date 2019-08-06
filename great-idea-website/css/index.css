@@ -66,51 +66,91 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 #body {
-	border-color: blue;
-	width: 800px;
+	<!--- border: 3px solid black;
+	width: 1000px;
 	margin: 0 auto;
 }
 
 #header {
-	border: 3px solid blue;
-	padding: 10px;
+	<!--- border: 3px solid blue;
+	padding: 20px;
 }
 
 #nav {
-	border: 3px solid red;
+	<!--- border: 3px solid red;
 	display: inline-block;
+	
 }
 
 #greatIdea {
-	border: 3px solid green;
-	position: fixed;
-	position: absolute;
-	top: 0;
-	right: 0;
+	<!--- border: 3px solid green;
+	display: inline-block;
+	margin-left: 125px;
 }
 .nav-link {
-	margin: 10px;
+	color: grey;
+	margin: 25px;
 	border-top: 15px;
 }
 #div1 {
-	border: 3px solid grey;
+	<!--- border: 3px solid grey;
 	display: inline-block;
-	margin-bottom: px;
+	margin: 13px;
 }
 #innovation {
 	border: 3px solid green;
 	text-align: center;
 	font-size: 50px;
-	width: 350px;
+	width: 450px;
 	height: 360px;
 }
 #getStarted {
 	border: 2px solid black;
 	width: 100px;
-	margin-left: 100px;
+	margin-left: 160px;
 	text-align: center;
 }
 #round {
-	border :3px solid pink;
+	<!--- border :3px solid pink;
 	display: inline-block;
+	margin: 27px;
+	width: 450px;
+	text-align: center;
+}
+.div2 {
+	<!--- border: 3px solid purple;
+	display: inline-block;
+	width: 450px;
+	margin: 20px;
+}
+#mid-img {
+	<!--- border: 3px solid yellow;
+	text-align: center;
+}
+.middle-img {
+	width: 950px;
+	margin: 0 auto;
+}
+.div3 {
+	display: inline-block;
+	width: 280px;
+	margin: 20px;
+}
+#borderSection {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+p {
+	margin: 25px 0;
+}
+#address {
+	margin: 50px 0 0 0px;
+}
+#copyright {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 90px;
+}
+#inno {
+	text-align: center;
 }
